@@ -1,0 +1,229 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "SSG0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG4[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG4[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG4[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG4[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG4[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG4[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG4[6]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG5[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG5[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG5[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG5[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG5[4]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG5[5]",
+					"strict" : false
+				},
+				{
+					"name" : "SSG5[6]",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "buttons[1]",
+					"strict" : false
+				},
+				{
+					"name" : "switches[1]",
+					"strict" : false
+				},
+				{
+					"name" : "buttons[0]",
+					"strict" : false
+				},
+				{
+					"name" : "switches[9]",
+					"strict" : false
+				},
+				{
+					"name" : "switches[0]",
+					"strict" : false
+				},
+				{
+					"name" : "switches[2]",
+					"strict" : false
+				},
+				{
+					"name" : "switches[4]",
+					"strict" : false
+				},
+				{
+					"name" : "switches[8]",
+					"strict" : false
+				},
+				{
+					"name" : "switches[6]",
+					"strict" : false
+				},
+				{
+					"name" : "switches[7]",
+					"strict" : false
+				},
+				{
+					"name" : "switches[5]",
+					"strict" : false
+				},
+				{
+					"name" : "switches[3]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

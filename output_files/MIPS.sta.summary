@@ -1,0 +1,77 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clock'
+Slack : -12.349
+TNS   : -9486.294
+
+Type  : Slow 1200mV 85C Model Setup 'top_level:CPU|CONTROLLER:CTRL|state.MEMORY_ACCESS_READ'
+Slack : -0.954
+TNS   : -10.372
+
+Type  : Slow 1200mV 85C Model Hold 'clock'
+Slack : -0.924
+TNS   : -1.671
+
+Type  : Slow 1200mV 85C Model Hold 'top_level:CPU|CONTROLLER:CTRL|state.MEMORY_ACCESS_READ'
+Slack : -0.735
+TNS   : -3.642
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -1696.366
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'top_level:CPU|CONTROLLER:CTRL|state.MEMORY_ACCESS_READ'
+Slack : 0.314
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'clock'
+Slack : -11.162
+TNS   : -8493.829
+
+Type  : Slow 1200mV 0C Model Setup 'top_level:CPU|CONTROLLER:CTRL|state.MEMORY_ACCESS_READ'
+Slack : -0.868
+TNS   : -9.576
+
+Type  : Slow 1200mV 0C Model Hold 'clock'
+Slack : -0.837
+TNS   : -1.508
+
+Type  : Slow 1200mV 0C Model Hold 'top_level:CPU|CONTROLLER:CTRL|state.MEMORY_ACCESS_READ'
+Slack : -0.554
+TNS   : -2.738
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -1695.430
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'top_level:CPU|CONTROLLER:CTRL|state.MEMORY_ACCESS_READ'
+Slack : 0.415
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'clock'
+Slack : -5.540
+TNS   : -4064.951
+
+Type  : Fast 1200mV 0C Model Setup 'top_level:CPU|CONTROLLER:CTRL|state.MEMORY_ACCESS_READ'
+Slack : -0.164
+TNS   : -0.363
+
+Type  : Fast 1200mV 0C Model Hold 'clock'
+Slack : -0.632
+TNS   : -1.206
+
+Type  : Fast 1200mV 0C Model Hold 'top_level:CPU|CONTROLLER:CTRL|state.MEMORY_ACCESS_READ'
+Slack : -0.229
+TNS   : -1.122
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -1428.735
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'top_level:CPU|CONTROLLER:CTRL|state.MEMORY_ACCESS_READ'
+Slack : 0.282
+TNS   : 0.000
+
+------------------------------------------------------------
