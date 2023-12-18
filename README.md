@@ -36,7 +36,7 @@ the datapath.
 
 CPU Controllers are defined by an Algorithmic State Machine (ASM). I used an existing controller algorithim from Computer Organization and Design: The Hardware/Software Interface, 3rd ed. From the Algorithim, I tranlated it into an ASM that fit the specific MIPS architecture that I implemented. Many adjacent steps in this algorithim needed an intermediate state in the ASM when signals were registered (delayed by a clock cycle) more than once.
 
-![Local Image](./Images/Algorithim.png)
+![Local Image](./Images/Algorithm.pngg)
 
 ## CPU
 
